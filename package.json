@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "prettier": "^3.1.0"
+  },
+  "devDependencies": {
+    "prettier-plugin-django-alpine": "^1.2.6"
+  }
+}
